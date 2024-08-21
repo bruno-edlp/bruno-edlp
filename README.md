@@ -1,7 +1,6 @@
 ## Hi code brother, nice to meet you! 👋🏼
 
 ### Just like you, I'm a dev exploring the world of codes. 🖥️📖
-<br>
 
 ### I almost forgot to introduce myself, I'm **Bruno Eduardo** 🤓
 <br>
