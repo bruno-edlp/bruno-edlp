@@ -1,11 +1,15 @@
-## Hi code brother, nice to meet you! 👋🏼
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Handjet&size=40&pause=1000&color=09069C&width=500&height=55&lines=Hi+code+brother%2C+nice+to+meet+you!+%F0%9F%91%8B%F0%9F%8F%BC)](https://git.io/typing-svg)
+<hr>
 
 ### Just like you, I'm a dev exploring the world of codes. 🖥️📖
+<br>
 
 ### I almost forgot to introduce myself, I'm **Bruno Eduardo** 🤓
 <br>
 
-## These are my rising stats 🚀
+### These are my rising stats 🚀
+<hr>
+
 
 ![Bruno GitHub stats](https://github-readme-stats.vercel.app/api?username=bruno-edlp&show_icons=true&theme=transparent)
 <br>
