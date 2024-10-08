@@ -1,11 +1,33 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Handjet&size=40&pause=1000&color=09069C&width=500&height=55&lines=Hi+code+brother%2C+nice+to+meet+you!+%F0%9F%91%8B%F0%9F%8F%BC)](https://git.io/typing-svg)
+
+<div align="center">
+
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Handjet&size=40&pause=1000&color=069E2D&width=500&height=55&lines=Hi+code+brother%2C+nice+to+meet+you!+%F0%9F%91%8B%F0%9F%8F%BC)](https://git.io/typing-svg)
+
+</div>
+<div align="center">
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</div>
 <hr>
 
-### Just like you, I'm a dev exploring the world of codes. 🖥️📖
+<div align="center"> 
+  
+  ### 📖🖥️ Just like you, I'm a dev exploring the world of codes. 🖥️📖
+</div>
+<div align="center">
+  
+ ### I almost forgot to introduce myself, I'm **Bruno Eduardo** 🤓
+</div>
 <br>
+  <h3>My current skills are:</h3>
+<ul>
+  <li>JavaScript</li>
+  <li>Python</li>
+  <li>PHP</li>
+  <li>TypeScript</li>
+  <li>Node.Js</li>
+</ul>
 
-### I almost forgot to introduce myself, I'm **Bruno Eduardo** 🤓
-<br>
 
 ### These are my rising stats 🚀
 <hr>
