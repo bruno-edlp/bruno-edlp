@@ -1,24 +1,38 @@
 
 <div align="center">
 
-  
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Handjet&size=40&pause=1000&color=069E2D&width=500&height=55&lines=Hi+code+brother%2C+nice+to+meet+you!+%F0%9F%91%8B%F0%9F%8F%BC)](https://git.io/typing-svg)
-
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Handjet&size=40&pause=1000&color=069E2D&width=800&height=55&lines=Hi+code+brother,+my+name+is+Bruno%2C+nice+to+meet+you!+%F0%9F%91%8B%F0%9F%8F%BC)](https://git.io/typing-svg)
 </div>
 <div align="center">
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </div>
-<hr>
 
 <div align="center"> 
   
-  ### 📖🖥️ Just like you, I'm a dev exploring the world of codes. 🖥️📖
+  ## 📖🖥️ Just like you, I'm a dev exploring the world of codes. 🖥️📖
 </div>
-<div align="center">
-  
- ### I almost forgot to introduce myself, I'm **Bruno Eduardo** 🤓
-</div>
+
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
 <br>
+<br>
+
+- 🔭 Looking for opportunities in Development</a>
+
+- 👨🏻‍💻 Into Back-End
+
+- 🌱 I’m currently studying at Fatec.
+
+- 🤝 I’m available for freelancing.
+
+- 🌱 Right now, learning Java and OOP (Object-Oriented Programming).
+
+- 📫 How to reach me **cttbruno.edlp@gmail.com** or <a href="https://www.linkedin.com/in/bruno-eduardo-2000tecdev/">Linkedin</a>
+
+<br>
+
+
 <div align="center">
   <h3>My current skills are:</h3>
 
@@ -38,9 +52,4 @@
   <br>
 
 </div>
-<div align="center">
 
- 
-### More info? Contact me 👉🏻 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/bruno-eduardo-2000tecdev)
-
-</div>
