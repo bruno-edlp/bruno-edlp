@@ -9,8 +9,12 @@
 
 <div align="center"> 
   
-  ## 📖🖥️ Just like you, I'm a dev exploring the world of codes. 🖥️📖
+  ### 📖🖥️ Just like you, I'm a dev exploring the world of codes. 🖥️📖
+
 </div>
+
+---
+
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
@@ -44,9 +48,9 @@
 </div>
 <div align="center">
 
-  ## And like everything has a beginning, this is my current status 🚀: 
-  
+  ### And like everything has a beginning, this is my current status 🚀: 
 
+  ---
 
   ![Bruno GitHub stats](https://github-readme-stats.vercel.app/api?username=bruno-edlp&show_icons=true&theme=transparent)
   <br>
