@@ -1,59 +1,31 @@
+<div style="display: flex; justify-content: center; align-items: center;">
+
+
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&width=400&color=0:800020,100:FB270F&reversal=false&section=header">
+  <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=500&size=30&duration=4700&pause=700&color=800020&center=true&width=500&lines=Hi%2C+I'm+Bruno;Be+Welcome+%F0%9F%98%89;Follow+me%2C+let's+join+forces+%F0%9F%AB%B1%F0%9F%8F%BC%E2%80%8D%F0%9F%AB%B2%F0%9F%8F%BC" alt="Typing SVG" />
+  </div>
+
 
 <div align="center">
-
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Handjet&size=40&pause=1000&color=069E2D&width=800&height=55&lines=Hi+code+brother,+my+name+is+Bruno%2C+nice+to+meet+you!+%F0%9F%91%8B%F0%9F%8F%BC)](https://git.io/typing-svg)
-</div>
-<div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</div>
-
-<div align="center"> 
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=300&color=gradient&text=Let's%20code%20the%20world&fontColor=800020&animation=twinkling&textBg=false">
+  <img width="55%" height="195px" src="https://github-readme-stats.vercel.app/api?username=bruno-edlp&show_icons=true&bg_color=575757&title_color=800020&text_color=800020&icon_color=4E0020">
   
-  ### 📖🖥️ Just like you, I'm a dev exploring the world of codes. 🖥️📖
 
+  <h3>Habilidades:</h3>
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+
+  <h3>Vamos crescer juntos?</h3>
+    <a href="https://instagram.com/brunow_dzisto" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+    <a href = "mailto:cmp.1a.cttbruno.edlp@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/bruno-eduardo-2000tecdev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>
 </div>
 
----
 
-
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
-<br>
-<br>
-
-- 🔭 Looking for opportunities in Development</a>
-
-- 👨🏻‍💻 Into Back-End
-
-- 🌱 I’m currently studying at Fatec.
-
-- 🤝 I’m available for freelancing.
-
-- 🌱 Right now, learning Java and OOP (Object-Oriented Programming).
-
-- 📫 How to reach me **cttbruno.edlp@gmail.com** or <a href="https://www.linkedin.com/in/bruno-eduardo-2000tecdev/">Linkedin</a>
-
-<br>
-
-
-<div align="center">
-  <h3>My current skills are:</h3>
-
- ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
- ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
- 
- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
- ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&width=400&color=0:800020,100:FB270F&reversal=false&section=footer">
 </div>
-<div align="center">
 
-  ### And like everything has a beginning, this is my current status 🚀: 
-
-  ---
-
-  ![Bruno GitHub stats](https://github-readme-stats.vercel.app/api?username=bruno-edlp&show_icons=true&theme=transparent)
-  <br>
-
-</div>
 
