@@ -5,7 +5,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=800&color=C0392B&center=true&width=520&lines=Building+robust+systems+from+the+inside+out.;Python+%7C+Node.js+%7C+Laravel+%7C+Django;Databases+are+my+second+language.;Clean+code%2C+solid+architecture." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=19&duration=4000&pause=800&color=C0392B&center=true&width=520&lines=Building+robust+systems+from+the+inside+out.;Python+%7C+Node.js+%7C+Laravel+%7C+Django;Databases+are+my+second+language.;Clean+code%2C+solid+architecture." alt="Typing SVG" />
 </div>
 
 <br/>
