@@ -1,0 +1,66 @@
+# ══════════════════════════════════════════════════════════════════
+#  GitHub Metrics — Bruno Eduardo (@bruno-edlp)
+#  Gera SVGs automaticamente e salva no repositório de perfil
+# ══════════════════════════════════════════════════════════════════
+
+name: Metrics
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches: ["main"]
+
+jobs:
+
+  isocalendar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.isocalendar.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+  topics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.topics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_topics: yes
+          plugin_topics_mode: icons
+          plugin_topics_limit: 0
+
+  people-followers:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.people.followers.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_people: yes
+          plugin_people_types: followers
+          plugin_people_limit: 28
+          plugin_people_size: 28
+          plugin_people_identicons_hide: yes
+
+  people-following:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.people.following.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_people: yes
+          plugin_people_types: following
+          plugin_people_limit: 28
+          plugin_people_size: 28
+          plugin_people_identicons_hide: yes
