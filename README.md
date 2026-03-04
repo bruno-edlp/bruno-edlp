@@ -59,10 +59,10 @@
 
 <h3 align="center">📊 Stats</h3>
 
-<div align="center">
+<!-- <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=bruno-edlp&show_icons=true&bg_color=0d0d0d&title_color=C0392B&text_color=cccccc&icon_color=800020&border_color=800020&border_radius=10">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-edlp&layout=compact&bg_color=0d0d0d&title_color=C0392B&text_color=cccccc&border_color=800020&border_radius=10">
-</div>
+</div> -->
 
 <br/>
 
@@ -72,16 +72,16 @@
 </div>
 
 <br/>
-<hr/>
+<!-- <hr/> -->
 
 <!-- Topics como ícones de tecnologia (gerado pelo metrics.yml) -->
-<h3 align="center">🧩 Technologies</h3>
+<!-- <h3 align="center">🧩 Technologies</h3>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/bruno-edlp/bruno-edlp/main/metrics.topics.svg">
 </div>
 
-<br/>
+<br/> -->
 <hr/>
 
 <!-- Relação com outros usuários: followers + following (gerado pelo metrics.yml) -->
