@@ -37,7 +37,7 @@
         </p>
       </td>
       <td align="center" width="45%">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=bruno-edlp&show_icons=true&bg_color=001a3a&title_color=F7941D&text_color=c0d8f0&icon_color=004C94&border_color=004C94&border_radius=10">
+        <img width="100%" src="images/pixelart_avatar_carisma-removebg-preview.png">
       </td>
     </tr>
   </table>
